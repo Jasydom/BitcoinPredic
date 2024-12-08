@@ -10,15 +10,11 @@ Ce projet analyse et prédit le prix du Bitcoin en utilisant des modèles de mac
 
 ## Modèles et Performances
 ### Top Modèles :
-1. **Réseaux de Neurones**  
+1. **RNN**  
    - R² = 0.948  
    - MSE : 0.00155  
-2. **RNN**  
-   - R² = 0.904  
-   - MSE : 645,917  
-3. **LSTM**  
-   - R² = 0.673  
-   - MSE : 2,213,336  
+2. **LSTM**  
+   - R² = 0.673   
 
 ## Moyenne
 La différence moyenne entre les prix d'ouverture et de clôture est de **0.0406**.
